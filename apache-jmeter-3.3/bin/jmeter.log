@@ -1,0 +1,53 @@
+2017-10-15 15:55:42,432 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: Version 3.3 r1808647
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: java.version=1.8.0_131
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: os.name=Windows 10
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: os.arch=amd64
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: os.version=10.0
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: file.encoding=Cp1252
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: Max memory     =536870912
+2017-10-15 15:55:42,448 INFO o.a.j.JMeter: Available Processors =8
+2017-10-15 15:55:42,463 INFO o.a.j.JMeter: Default Locale=English (United States)
+2017-10-15 15:55:42,463 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2017-10-15 15:55:42,463 INFO o.a.j.JMeter: JMeterHome=D:\auto\jmeter\apache-jmeter-3.3
+2017-10-15 15:55:42,463 INFO o.a.j.JMeter: user.dir  =D:\auto\jmeter\apache-jmeter-3.3\bin
+2017-10-15 15:55:42,463 INFO o.a.j.JMeter: PWD       =D:\auto\jmeter\apache-jmeter-3.3\bin
+2017-10-15 15:55:42,463 INFO o.a.j.JMeter: IP: 192.168.0.147 Name: DESKTOP-STGKJT9 FullName: DESKTOP-STGKJT9
+2017-10-15 15:55:42,748 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2017-10-15 15:55:42,764 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2017-10-15 15:55:43,164 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2017-10-15 15:55:43,164 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2017-10-15 15:55:44,767 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2017-10-15 15:55:44,982 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2017-10-15 15:55:45,004 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2017-10-15 15:55:45,020 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-15 15:55:45,020 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-15 15:55:45,020 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-15 15:55:45,020 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-15 15:55:45,020 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2017-10-15 15:55:45,020 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2017-10-15 15:55:45,120 INFO o.a.j.e.KeyToolUtils: Exception checking for keytool existence, will return false, try another way.
+2017-10-15 15:55:45,267 INFO o.a.j.e.KeyToolUtils: keytool found at 'C:\Program Files\Java\jre1.8.0_131\bin\keytool'
+2017-10-15 15:55:45,267 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\auto\jmeter\apache-jmeter-3.3\bin\proxyserver.jks
+2017-10-15 15:55:45,367 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2017-10-15 15:55:45,405 INFO o.a.j.s.FileServer: Default base='D:\auto\jmeter\apache-jmeter-3.3\bin'
+2017-10-15 15:55:45,452 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2017-10-15 15:55:45,452 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2017-10-15 15:55:45,753 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2017-10-15 15:55:45,784 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2017-10-15 15:55:45,884 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2017-10-15 15:55:45,884 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2017-10-15 15:55:45,884 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2017-10-15 15:55:45,884 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2017-10-15 15:55:46,207 INFO o.j.r.PluginManager: Plugins Status: [jpgc-dummy=0.2, jpgc-plugins-manager=0.16, jmeter-core=3.3, jmeter-ftp=3.3, jmeter-http=3.3, jmeter-jdbc=3.3, jmeter-jms=3.3, jmeter-junit=3.3, jmeter-java=3.3, jmeter-ldap=3.3, jmeter-mail=3.3, jmeter-mongodb=3.3, jmeter-native=3.3, jmeter-tcp=3.3, jmeter-components=3.3]
+2017-10-15 15:55:50,321 INFO o.a.j.g.a.Load: Loading file: D:\auto\jmeter\document\advance\week_8\jmeter\projects\sample_project_a\sample_scenario_1\jmeter.jmx
+2017-10-15 15:55:50,321 INFO o.a.j.s.FileServer: Set new base='D:\auto\jmeter\document\advance\week_8\jmeter\projects\sample_project_a\sample_scenario_1'
+2017-10-15 15:55:50,406 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2017-10-15 15:55:50,406 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2017-10-15 15:55:50,406 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2017-10-15 15:55:50,406 INFO o.a.j.s.SaveService: Loading file: D:\auto\jmeter\document\advance\week_8\jmeter\projects\sample_project_a\sample_scenario_1\jmeter.jmx
+2017-10-15 15:55:50,754 INFO o.a.j.s.FileServer: Set new base='D:\auto\jmeter\document\advance\week_8\jmeter\projects\sample_project_a\sample_scenario_1'
